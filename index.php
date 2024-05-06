@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <header>Projet de Thomas pour GIT</header>
+    <header>Projet de la formation Git</header>
 </body>
 </html>
