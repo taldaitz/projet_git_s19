@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <header>Super Projet</header>
+    <header>Projet de Thomas pour GIT</header>
 </body>
 </html>
